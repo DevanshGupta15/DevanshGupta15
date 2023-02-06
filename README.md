@@ -1,5 +1,5 @@
 🙋‍♂️ Hey there!
-I'm [Your Name], a [Your Occupation/Title] and a lover of all things tech. 🤖 I'm passionate about creating creative and out-of-the-box solutions for real-world problems. I firmly believe that technology has the power to change the world for the better. 🚀
+I'm Devansh, a Btech student and a lover of all things tech. 🤖 I'm passionate about creating creative and out-of-the-box solutions for real-world problems. I firmly believe that technology has the power to change the world for the better. 🚀
 
 When it comes to coding, I'm a wizard in Machine Learning. I've worked on some pretty cool projects in the past.
 
